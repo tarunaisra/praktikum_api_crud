@@ -1,5 +1,9 @@
 # Praktikum Flutter API CRUD
 
+## Taruna Isra Elnasa
+## 362458302073
+## TRPL 2B
+
 Proyek ini merupakan implementasi penuh fitur **CRUD (Create, Read, Update, Delete)** menggunakan Web API dari https://reqres.in.  
 Aplikasi memungkinkan pengguna untuk melihat, menambahkan, mengubah, dan menghapus data user melalui komunikasi REST API.
 
